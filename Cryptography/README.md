@@ -1,7 +1,7 @@
 # Cryptography
 
-* Circles
-* Speedrunner
+* [Circles](./Circles/README.md)
+* [Speedrunner](./Speedrunner/README.md)
 * Tap Dancing
 * Typewriter
 * Titanic

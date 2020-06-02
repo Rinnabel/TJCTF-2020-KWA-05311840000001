@@ -13,3 +13,4 @@ tjctf{pYJrfQK0dbaTPG}
 
 ## Penyelesaian
 
+Kita bisa menggunakan [color picker](https://imagecolorpicker.com/) untuk mengecek nilai hex dari masing-masing warna yang ada. Setelah nila hex ditemukan, maka tinggal mengkonversikannya menjadi ASCII dengan menggunakan [online converter](https://www.rapidtables.com/convert/number/hex-to-ascii.html)

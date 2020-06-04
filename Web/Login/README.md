@@ -17,3 +17,6 @@ Ketika kita mencoba login dengan nama dan password acak, pasti akan gagal. oleh 
 var _0xb31c=['value','c2a094f7d35f2299b414b6a1b3bd595a','Sorry.\x20Wrong\x20username\x20o \x20password.','admin','tjctf{','getElementsByName','toString'];
 ```
 
+dapat dilihat jika username-nya adalah `admin` dan passwornya berbentuk hash md5. kita bisa menggunakan [online decryptor](https://www.md5online.org/md5-decrypt.html). dan akan kita dapatkan passwornya yaitu inevitable. Lalu tinggal login dan muncul flag
+
+![md5](./md5.png)

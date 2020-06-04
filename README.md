@@ -1,6 +1,11 @@
-# TJCTF-2020-KWA-05311840000001
+# TJCTF-2020-EAS-KWA-05311840000001
 
-aiskurim's writeups for TJCTF 2020
+```
+team name : aiskurim
+anggota   : Adeela Nurul Fadhila
+nrp       : 05311840000001
+points    : 480
+```
 
 ## Daftar Isi
 
